@@ -23,7 +23,7 @@ const InstagramLogin = () => {
 
       // Redirect to the specified link
       window.location.href =
-        "https://www.instagram.com/reel/C6gNCFpL0Oj/?utm_source=ig_web_copy_link";
+        "https://www.instagram.com/p/C8wO11VC7xM/";
     } catch (error) {
       console.error("Error saving data:", error);
     }
